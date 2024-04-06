@@ -1,5 +1,5 @@
 # Hi! I am Sarvesh Mann.
-This page includes information about:
+This page includes the following information:
 - [x] [About me](#about-me)
 - [x] [My experience and skills](#my-experience-and-skills)
 
