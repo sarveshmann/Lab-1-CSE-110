@@ -26,6 +26,4 @@ When I am not on my computer, you can find me playing with my pets, at a beach, 
     4. Basic knowledge about Github and Jupyter Notebook
     5. Basic knowledge about HTML, Latex, and Markdown
 
-- [ ]Check the box if you would like to connect!
-
-## *Thank you for your time and consideration!*
+## - [x] *Thank you for your time and consideration!*
