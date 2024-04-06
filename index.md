@@ -2,6 +2,7 @@
 This page includes information about:
 - [x] [About me](#about-me)
 - [x] [My experience and skills](#my-experience-and-skills)
+
 ## About me 
 I am a third year **computer science student** at [UC San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego). I do not consider myself to be an expert programmer but rather a learning programmer because I think programming requires constant learning and exploration of new things. I decided to go with computer science because I love computers. Over the past few years of studying computer science, I have gained some [experience and skills](#skills), which I have added below as well. They've always fascinated me ever since I was a child. I remember my first ever computer which had a boxy display and all off-white color (apparently called a "[*Beige Box*](https://en.wikipedia.org/wiki/Beige_box)"). Regardless of its looks, I was content with the wonderful possibilities of that box. I enjoyed and still enjoy the feeling of installing new games and playing them, surfing the internet, and exploring the vast *digital realm*. 
 <br>
